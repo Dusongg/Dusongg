@@ -16,9 +16,7 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-<p align="center" >
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusongg&layout=compact&theme=tokyonight"/>
-</p>
+
 
 <!--
 📈 **Things I code with**
