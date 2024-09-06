@@ -1,12 +1,36 @@
-## Hi there 👋
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<div align="center">
+   <h1>Hi there, I'm <a href="https://blog.csdn.net/Dusong_">Dusong</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
 
-<!--END_SECTION:waka-->
+</div>
 
-📈 my github stats
+🌱**about me**
+- 🔭I'm Learning Golang & C++ & Kubernetes
+- :school::SouthWest University
+- :office::Hundsun
+- 💬 **Connect With Me** : ✨ dusong700@gmail.com ✨
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dusongg&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+:sweat_drops:**[My skill set](https://github.com/Dusongg/StudyNotes)**
+
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+<p align="center" >
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusongg&layout=compact&theme=tokyonight"/>
+</p>
+
+<!--
+📈 **Things I code with**
+
+<p align="center" >
+    <img  src="https://github-readme-stats.vercel.app/api?username=Dusongg&&show_icons=true&theme=radical"/>
+</p>
+
+-->
+   <p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 <!--
 **Dusongg/Dusongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
