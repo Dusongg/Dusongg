@@ -29,8 +29,8 @@
 </p>
 
 -->
-   <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 <!--
 **Dusongg/Dusongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
