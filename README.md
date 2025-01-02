@@ -6,9 +6,9 @@
 </div>
 
 🌱**about me**
-- 🔭I'm Learning Golang & Cloud Native
+- 🔭I'm Learning _Golang_ & _Cloud Native_
 - :school::SouthWest University
-- :office::Hundsun
+- :office:: Hundsun(intern 24/7-24/9) ➡️ Meituan(Project intern 24/10-25/1)  ➡️ null
 - 💬 **Connect With Me** : ✨ dusong700@gmail.com ✨
 
 :sweat_drops:**[My skill set](https://github.com/Dusongg/StudyNotes)**
