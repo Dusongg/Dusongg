@@ -6,7 +6,7 @@
 </div>
 
 🌱**about me**
-- 🔭I'm Learning Golang & C++ & Kubernetes
+- 🔭I'm Learning Golang & Cloud Native
 - :school::SouthWest University
 - :office::Hundsun
 - 💬 **Connect With Me** : ✨ dusong700@gmail.com ✨
