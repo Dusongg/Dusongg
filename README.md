@@ -8,7 +8,7 @@
 🌱**about me**
 - 🔭I'm Learning _Golang_ & _Cloud Native_
 - :school::SouthWest University
-- :office:: Hundsun(intern 24/7-24/9) ➡️ Meituan(Project intern 24/10-25/1)  ➡️ null
+- :office:: Hundsun(intern 24/7-24/9) ➡️ Meituan(Project intern 24/10-25/1)  ➡️ ByteDance（QA intern 25/03 - ）
 - 💬 **Connect With Me** : ✨ dusong700@gmail.com ✨
 
 :sweat_drops:**[My skill set](https://github.com/Dusongg/StudyNotes)**
