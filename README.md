@@ -9,7 +9,7 @@
 - 🔭I'm Learning _Golang_ & _Cloud Native_ & _kafka_
 - :school::SouthWest University
 - :office:: Hundsun(C/C++ intern 24/7-24/9) ➡️ Meituan(Project intern 24/10-25/1)  ➡️ ByteDance（QA intern 25/03 - 25/06）➡️ Tencent（RD intern 25/06 - ）
-- 💬 **Connect With Me** : ✨ dusong700@gmail.com ✨
+- 💬 **Connect With Me** :✨ dusong700@gmail.com ✨ (wechat:dusong041008)
 
 :sweat_drops:**[My skill set](https://github.com/Dusongg/StudyNotes)**
 
