@@ -6,7 +6,7 @@
 </div>
 
 🌱**about me**
-- 🔭I'm Learning _Golang_ & _Cloud Native_ & 
+- 🔭I'm Learning _Golang_ & _Cloud Native_
 - :school::SouthWest University
 - :office:: Hundsun(C/C++ intern 24/7-24/9) ➡️ Meituan(Project intern 24/10-25/1)  ➡️ ByteDance（QA intern 25/03 - 25/06）➡️ Tencent（RD intern 25/06 - ）
 - 💬 **Connect With Me** :✨ dusong700@gmail.com ✨ (wechat:dusong041008)
